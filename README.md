@@ -50,7 +50,7 @@ Ce projet, réalisé dans le cadre du module **Machine Learning**, a pour vocati
 ## ⚙️ Stack Technique
 
 * **Langage** : Python 3.8+
-* **Graphique** : *Choix* entre **Tkinter** (desktop) ou **Django** + Bootstrap & Chart.js (web)
+* **Graphique** : *Choix* entre **Tkinter** (desktop) ou **Django** + Bootstrap & Chart.js (web)
 * **Data & ML** :
 
   * pandas, NumPy
@@ -117,7 +117,7 @@ python manage.py runserver
 1. **Importer** : Cliquez sur **» Charger Dataset »** et sélectionnez votre fichier.
 2. **Explorer** : Consultez les statistiques descriptives et graphiques interactifs.
 3. **Prétraiter** : Gérez valeurs manquantes, normalisez et encodez.
-4. **Exécuter** : Sélectionnez **Régression** ou **Classification**, fixez α et le nombre d’itérations.
+4. **Exécuter** : Sélectionnez **Régression** ou **Classification**, fixez α et le nombre d’itérations.
 5. **Visualiser** : Suivez la convergence de la fonction de coût et l’évolution des metrics.
 
 > 💡 **Astuce** : Testez plusieurs valeurs de α pour comprendre leur impact sur la vitesse de convergence.
@@ -162,9 +162,9 @@ gradient-descent-visualizer/
 
 ---
 
-## 🖼️ Présentation & Poster
+## 🖼️  Poster
 
-> \:point\_right: **Placeholder** pour l’image du poster (voir dossier `./Images/PosterExample_page-0001.jpg`)
+![Poster](PosterExample_page-0001.jpg)
 
 ---
 
