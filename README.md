@@ -1,7 +1,15 @@
-# 🚀 Gradient Descent Visualizer
+# Application Graphique de Descente de Gradient pour la Régression et la Classification
 
-> **Application graphique de l’algorithme de « Gradient Descent » pour la régression et la classification**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
+---
 ---
 
 ## 📖 Table des matières
@@ -159,13 +167,6 @@ gradient-descent-visualizer/
 3. `git commit -m "✨ add nouvelle fonctionnalité"`
 4. `git push origin feature/ma-feature`
 5. Ouvrez une **Pull Request**
-
----
-
-## 🖼️  Poster
-
-![Poster](./Images/PosterExample_page-0001.jpg)
-
 
 ---
 
